@@ -21,9 +21,11 @@ address {
 h1{
     margin-bottom: 3px;
 }
-main{
-    text-align: left;
-}
+
+
 .segna {
     background-color: yellow;
+}
+.tabella{
+    background-color: rgb(4, 121, 255);
 }
