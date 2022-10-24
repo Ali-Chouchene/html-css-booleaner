@@ -2,13 +2,14 @@
     height: 120px;
     background-color: rgb(119, 119, 240);
     background-image: url("../img/pattern.png");
-    background-size: 500px;   
+    background-size:300px;   
     
 }
 /*UTILITY*/
 .container{
-    width: 55%;
+    width: 90%;
     margin:5px auto;
+    text-align: left;
     
     
 }
@@ -58,4 +59,8 @@ h3{
 }
 .lista-u{
     border-collapse: collapse;
+}
+main{
+    width: 60%;
+    margin: 0px auto;
 }
