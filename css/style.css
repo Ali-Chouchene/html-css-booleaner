@@ -27,5 +27,22 @@ h1{
     background-color: yellow;
 }
 .tabella{
-    background-color: rgb(4, 121, 255);
+    color: azure;
+    background-color: rgb(131, 182, 240);
+    border-spacing: 0px;
+}
+tbody{
+    background-color: rgb(70, 143, 226);
+    border-spacing: 0px;
+}
+tfoot{
+    background-color: rgb(70, 143, 226);
+    border-spacing: 0px;
+}
+.diversa{
+    background-color: rgb(255, 255, 255);
+    border-spacing: 0px;
+}
+h3{
+    color: rgb(114, 111, 111);
 }
