@@ -1,0 +1,61 @@
+#pattern {
+    height: 120px;
+    background-color: rgb(119, 119, 240);
+    background-image: url("../img/pattern.png");
+    background-size: 500px;   
+    
+}
+/*UTILITY*/
+.container{
+    width: 55%;
+    margin:5px auto;
+    
+    
+}
+#logo {
+    height: 70px;
+    padding-top: 30px;
+    text-decoration: none;
+}
+#link{
+    text-decoration: none;  
+}
+address {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(162, 173, 177);
+    margin-bottom: 10px;
+}
+h1{
+    margin-bottom: 3px;
+}
+
+
+.segna {
+    background-color: yellow;
+}
+.tabella{
+    color: azure;
+    background-color: rgb(131, 182, 240);
+    border-spacing: 0px;
+}
+tbody{
+    background-color: rgb(111, 143, 226);
+    border-spacing: 0px;
+}
+tfoot{
+    background-color: rgb(111, 177, 252);
+    border-spacing: 0px;
+}
+.diversa{
+    background-color: rgb(255, 255, 255);
+    border-spacing: 0px;
+}
+h3{
+    color: rgb(114, 111, 111);
+}
+.monitor{
+
+}
+.lista-u{
+    border-collapse: collapse;
+}
