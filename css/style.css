@@ -1,11 +1,11 @@
-#pattern{
+#pattern {
     height: 120px;
     background-color: rgb(119, 119, 240);
     background-image: url("../img/pattern.png");
     background-size: 500px;   
     
 }
-#logo{
+#logo {
     height: 70px;
     padding-top: 30px;
     text-decoration: none;
@@ -13,11 +13,17 @@
 #link{
     text-decoration: none;  
 }
-address{
+address {
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(162, 173, 177);
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 h1{
     margin-bottom: 3px;
+}
+main{
+    text-align: left;
+}
+.segna {
+    background-color: yellow;
 }
